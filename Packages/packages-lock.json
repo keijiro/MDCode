@@ -111,6 +111,15 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.unity.visualeffectgraph": {
+      "version": "16.0.4",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.shadergraph": "16.0.4",
+        "com.unity.render-pipelines.core": "16.0.4"
+      }
+    },
     "jp.keijiro.metawire": {
       "version": "2.0.0",
       "depth": 0,
