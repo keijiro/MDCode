@@ -977,7 +977,7 @@ MonoBehaviour:
   - {fileID: 114350483966675027}
   m_ExposedName: Cell Size
   m_Exposed: 0
-  m_Order: 1
+  m_Order: 0
   m_Category: 
   m_Min:
     m_Type:
@@ -1871,7 +1871,7 @@ MonoBehaviour:
   - {fileID: 114350483966675245}
   m_ExposedName: ID
   m_Exposed: 0
-  m_Order: 2
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
